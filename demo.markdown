@@ -1,7 +1,7 @@
 ---
 title: Demo page
-google: UA-61695778-1
 layout: default
+google: UA-61695778-1
 ---
 
 ### Testing 123
