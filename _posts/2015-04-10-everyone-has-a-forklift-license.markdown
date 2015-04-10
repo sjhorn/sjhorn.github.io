@@ -43,7 +43,7 @@ There is no doubt that someone new to a speciality is unlikely to be as efficien
 
 ## What to take away
 
-Give it a try in your team. The *human condition* tends to make us all a little inquisitive and interested in a challenge even if only to make the day more interesting. You will be pleasantly suprised in the value your team can bring by venturing outside the shoebox of your job description. 
+Give it a try in your team. The *human condition* tends to make us all a little inquisitive and interested in a challenge even if only to make the day more interesting. You will be pleasantly surprised in the value your team can bring by venturing outside the shoebox of your job description. 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e9/Pigeons-in-holes.jpg)
 
