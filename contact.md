@@ -2,7 +2,7 @@
 layout: default
 title: Contact Scott
 ---
-
+<style>.header { background-image: url(assets/img/gradient.jpeg) }</style>
 <div id="contact">
 
 <h1>Contact Me</h1>
