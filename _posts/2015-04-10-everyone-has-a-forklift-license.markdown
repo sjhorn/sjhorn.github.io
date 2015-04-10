@@ -47,4 +47,5 @@ Give it a try in your team. The *human condition* tends to make us all a little 
 
 ![](http://upload.wikimedia.org/wikipedia/commons/e/e9/Pigeons-in-holes.jpg)
 
+Related post [The full-stack employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 
