@@ -37,11 +37,11 @@ I think everybody should be *allowed* and *encouraged* to explore skills outside
 
 There is no doubt the speciality of testing is more about breaking then making, but to walk a mile in this space helps think more clearly when making. Imagine for a moment that your customers are not going the use the software the way you do. Maybe the like hashtags for there credit card name. Who knows? Can't hurt to understand how ot test.
 
-## What about efficiencies ?
+## What about efficiencies
 
 There is no doubt that someone new to a speciality is unlikely to be as efficient as a veteran to the area. But as described in the Power's brewing story - the true measure of any task is throughput - how quickly can you get the beer to the market. It doesnt matter how fast the trucks go, or the beer is made if it can't be loaded. 
 
-## What to take away?
+## What to take away
 
 Give it a try in your team. The *humuan condition* tends to make us all a little inquisitive and interested in a challenge even if only to make the day more interesting. You will be pleasantly suprised in the value your team can bring by venturing outside the shoebox of your job description. 
 
