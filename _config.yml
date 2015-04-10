@@ -11,8 +11,8 @@ paginate: 10
 
 navigation:
  - title: Home
-   url: index.html
+   url: /index.html
  - title: About
-   url: about.html
+   url: /about.html
  - title: Contact
-   url: contact.html
+   url: /contact.html
