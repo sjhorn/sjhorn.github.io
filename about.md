@@ -4,7 +4,7 @@ title: About Scott Horn
 ---
 <style>.header { background-image: url(assets/img/winning.jpeg) }</style>
 
-Scott is an Engineer working as a Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [lastminute.com.au](http://www.lastminute.com.au) and [travel.com.au](http://www.travel.com.au) in Brisbane, Australia. He is also a competitive and casual cyclist.
+[Scott](https://au.linkedin.com/in/sjhorn) is an Engineer working as a Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [lastminute.com.au](http://www.lastminute.com.au) and [travel.com.au](http://www.travel.com.au) in Brisbane, Australia. He is also a competitive and casual cyclist.
 
 ![Scott on Mt Nebo picture](/assets/img/nebo.jpeg "Looking out of Mt Nebo")
 ![Scott on plane to Sydney](/assets/img/plane_profile.jpg "On plane to Sydney")
