@@ -4,14 +4,14 @@ title: About Scott Horn
 ---
 <style>.header { background-image: url(assets/img/winning.jpeg) }</style>
 
-[Scott](https://au.linkedin.com/in/sjhorn) is an Engineer working as a Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [lastminute.com.au](http://www.lastminute.com.au) and [travel.com.au](http://www.travel.com.au) in Brisbane, Australia. He is also a competitive and casual cyclist.
+[Scott](https://au.linkedin.com/in/sjhorn) is an Engineer working as a Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [lastminute.com.au](http://www.lastminute.com.au) and [travel.com.au](http://www.travel.com.au) in Brisbane, Australia. He is also a [competitive](http://www.strava.com/athletes/1300808) and [casual cyclist](http://www.strava.com/athletes/1300808).
 
-![Scott on Mt Nebo picture](/assets/img/nebo.jpeg "Looking out of Mt Nebo")
-![Scott on plane to Sydney](/assets/img/plane_profile.jpg "On plane to Sydney")
-![Scott's profile image](/assets/img/profile.jpg "Scott's profile image")
-![Scott in hat](/assets/img/profile_hat.jpg "Scott in hat")
-
+![Scott on Mt Nebo picture](assets/img/nebo.jpeg "Looking out of Mt Nebo")
+![Scott on plane to Sydney](assets/img/plane_profile.jpg "On plane to Sydney")
+![Scott's profile image](assets/img/profile.jpg "Scott's profile image")
+![Scott with Harry](assets/img/shorn3.jpg "Scott with harry")
 ### Creating
+
 * [Itsy](https://github.com/sjhorn/itsy-lang) a small language experiment interpreter.
 * [Bitsy](https://github.com/sjhorn/bitsy-lang) a small language experiment compiler. Compiles to native, java bytecode and bash shell files.
 * [Discovera](https://github.com/sjhorn/discovera): An adventure in finding files.
@@ -20,8 +20,9 @@ title: About Scott Horn
 * [Groovy SpaceInvaders](https://github.com/sjhorn/SpaceInvaders): Retro space invaders based on Atari 2600.                        
 
 ### Learning
-
+<div style="height:400px; overflow:scroll">
 <script language="javascript" src="http://pinboard.in//widgets/v1/linkroll/?user=sjhorn&count=30"></script>
+</div>
 
 ### Fun!
 
