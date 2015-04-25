@@ -1,9 +1,15 @@
-# The 8-mile effect
+---
+layout: post
+title:  "The 8-mile effect"
+date:   2015-04-25
+comments: true
+---
 
 ![](http://www.universalstudiosentertainment.com/assets_c/2010/04/61109281_8%20Mile_800x445-thumb-800x445-573.jpg?01AD=3_lniGCFj_hjJEB-6zC7F8JD-kTHdtZsx9nsBk0WuKlHi1mFkx4X5Aw&01RI=D674B6A53BCC86E&01NA=na)
 
-
-Developing software has a fair share of challenges. Choosing the right tools, the right platform, the build pipeline, unit testing, stress testing, security...
+<p class="intro"><span class="dropcap">D</span>
+eveloping software has a fair share of challenges. Choosing the right tools, the right platform, the build pipeline, unit testing, stress testing, security...
+</p>
 
 But none of these compare to the challenge that emerges when choosing the **right** features to do first. 
 
