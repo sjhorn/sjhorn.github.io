@@ -25,11 +25,11 @@ The interesting side effect of this is the followup water cooler conversation ab
 
  * delivered on **time**,
  * to a **satisfactory level of completion**, 
- * or ever have the infamous **phase 2** where the rest of the features get delivered. 
+ * have the infamous **phase 2** where the rest of the features get delivered. 
 
 Sound familiar ?
 
-But are these kinds of comments a self-fulfilling prophecy for the next attempt to do a software development lifecycle ?
+But do these kinds of comments help fuel the challenges in the first place?
 
 Let's explore each:
 
@@ -54,7 +54,7 @@ The drive to ensure features are included in software leads to two side effects.
  2. Late and incremental addition of features to a constrained design. An effect similar to the way wires are run in the picture below. 
  ![](http://www.ekantipur.com/uploads/tkp/news/2010/gallery_10_06/CROSSWIRE_20101007084334.jpg)
  
-Is this what happens with your projects? Both of the side effects lead to results that aren't considered satisfactory when software ships. But ask most engineers or designers and words like scope creep and not sticking to the design is nearly always the first thing sighted. 
+Is this what happens with your projects? Both of the side effects lead to results that aren't considered satisfactory when software ships. But ask most engineers or designers and words like *scope creep* and not sticking to the *design* is the first thing sighted. 
 
 ### The infamous Phase 2
 
@@ -72,9 +72,9 @@ One shot? One opportunity ? Sounds familiar. But not all hope is lost.
 
 ## What can we do ?
 
-Lucky for most of us, this problem is not new and there have been pioneers trialing different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
+Lucky for us, this problem is not new and there have been pioneers trialing different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
 
-The success of these methods in practice went mainstream when Toyota's dominance was attributed to their process - the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System).
+The success of these methods went mainstream when Toyota's dominance was attributed to their process - the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System).
 This continues to drive a popular movement around iterative development and lean methodology.  
 
 Having an effective production system is not enough by itself to counter *8-mile effect* as we still need to choose the right features. Luckily the work of Eli Goldratt and his [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints) has found some following after the success of his business novel [The Goal](http://bit.ly/1yYUsdE). As quoted on the books cover this is "required reading for Amazon's management". 
@@ -99,7 +99,15 @@ With the Build-test-learn process of lean focusing on the smallest experiment po
 
 ### Focus and the theory of constraints
 
-But choosing items and random on **gut** feel hasn't always worked out. Eli Goldratt in his popular business novel [The Goal](http://bit.ly/1yYUsdE) presents the idea that when problem solving we should not always optimise the entire workflow. Rather we should focus first on the bottleneck or constraint. In his other presentations he concentrates this concept in a decision making process he names the [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints). With the tools he provides it is possible to take a large set of data and intuitive insights(i.e. "gut feel) and produce a set of prioritised steps to lead to a goal. For choosing features to learn from first - these tools can work well for individuals and teams trying to get started or to make ongoing decisions. 
+But choosing items and random on **gut feel** hasn't always worked out. Eli Goldratt in his popular business novel [The Goal](http://bit.ly/1yYUsdE) presents the idea that problem solving should NOT focus on local optimisation but consider the entire workflow ie. target the bottlenecks in the workflow. In his other presentations he concentrates this concept in a decision making process he names the [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints). With the tools he provides it is possible to take a large set of data and intuitive insights(i.e. **gut feel**) and produce a set of prioritised steps to lead to a goal. For choosing features to learn from first - these tools can work well for individuals and teams trying to get started or to make ongoing decisions. 
+
+Assuming the goal of a system has been articulated and its measurements defined, the steps are:
+
+1. Identify the system's constraint(s).
+2. Decide how to exploit the system's constraint(s).
+3. Subordinate everything else to the above decision(s).
+4. Elevate the system's constraint(s).
+5. Warning! If in the previous steps a constraint has been broken, go back to step 1, but do not allow inertia to cause a system's constraint.
 
 ## Closing thoughts
 
