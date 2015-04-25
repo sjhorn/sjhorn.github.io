@@ -115,7 +115,7 @@ Developing software will present you with the *8-mile effect*. Peers and stakeho
 
 With Lean-MVP and TOC you are in a better place to choose and prioritise features based on a clear understanding of the problem and the learning process to provide the most useful software. You are also well equipped to make everyone aware of the core problem that is being solved.
 
-In the words of my peer and successful entrepreneur [Dineth Mendis](http://dinethmendis.com) 
+In the words of my peer and successful entrepreneur behind [60Hz](http://m2d2apps.com/60hz-for-ios7/) - [Dineth Mendis](http://dinethmendis.com) 
 > Lean's great because the experiment is revolving around problem, and in a rather unselfish, empathetic way of helping the customer.
 
 So get on the journey and keep having fun!
