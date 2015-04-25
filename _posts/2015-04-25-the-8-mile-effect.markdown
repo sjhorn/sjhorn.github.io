@@ -15,9 +15,9 @@ But none of these compare to the challenge that emerges when choosing the **righ
 
 Over the last decade I have worked with various internal and external stakeholders and one thing that seems to get in the way of choosing the **right** features is best expressed by Eminem's performance in the movie [8-mile](https://youtu.be/axGVrfwm9L4?t=53)
 
-    ... Look, if you had one shot, or one opportunity
-    To seize everything you ever wanted. one moment
-    Would you capture it or just let it slip...
+> ... Look, if you had one shot, or one opportunity
+> To seize everything you ever wanted. one moment
+> Would you capture it or just let it slip...
  
 Everybody wants **their** feature included, because otherwise it won't get another chance.
 
@@ -27,49 +27,87 @@ The interesting side effect of this is the followup water cooler conversation ab
  * to a **satisfactory level of completion**, 
  * or ever have the infamous **phase 2** where the rest of the features get delivered. 
 
-The interesting thing about these comments is the way they form a self-fulfilling prophecy for the next attempt to do a software development lifecycle. 
+Sound familiar ?
+
+But are these kinds of comments a self-fulfilling prophecy for the next attempt to do a software development lifecycle ?
+
+Let's explore each:
 
 ### Delivered on time
-The [Iron Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) of project management demonstrates that only two out of three contraints of cost, features(scope) and time(schedule) can be fixed. Or expressed in another way a change to one of the items effects the other two. ![](http://upload.wikimedia.org/wikipedia/commons/a/a6/The_triad_constraints.jpg)
 
-So given time is fixed and features are being added, cost will increase. For fixed budget software developemnt this is not an option so ultimately time is impacted. 
+So the project is late..."this is why I have to keep adding more features into the first phase". Have you heard this one?
 
-To deliver on time cost and scope need to be fixed. 
+The [Iron Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) of project management demonstrates that only two out of three constraints of cost, features(scope) and time(schedule) can be fixed. Or expressed in another way - a change to one of the items effects the other two. ![](http://upload.wikimedia.org/wikipedia/commons/a/a6/The_triad_constraints.jpg)
+
+So given time is fixed and features are being added, cost will increase. For fixed budget software development this is not an option so ultimately time is impacted. 
+
+It's not so strange now how constantly trying to resolve lateness by adding more into a phase is actually counter-productive and actually make the problem worse. 
 
 
 ### A satisfactory level of completion
 
+Why are we always unhappy with the result?
+
 The drive to ensure features are included in software leads to two side effects. 
 
- 1. Extended **analysis** and **design** lead time leading to analysis paralysis and/or abtrirary trade-off based on what can be completed the quickest. 
+ 1. Extended **analysis** and **design** lead time leading to analysis paralysis and/or arbitrary trade-offs. Mostly based on what can be completed the quickest. 
  2. Late and incremental addition of features to a constrained design. An effect similar to the way wires are run in the picture below. 
  ![](http://www.ekantipur.com/uploads/tkp/news/2010/gallery_10_06/CROSSWIRE_20101007084334.jpg)
  
-Both of the side effects  lead to results that aren't considered satisfactory when software ships.
+Is this what happens with your projects? Both of the side effects lead to results that aren't considered satisfactory when software ships. But ask most engineers or designers and words like scope creep and not sticking to the design is nearly always the first thing sighted. 
 
 ### The infamous Phase 2
 
-The folklore that I have seen built about about the idea that *there is no phase 2* has only helped put more pressure on the first phase of software development. The harvard business review writer Jeff Gothelf even wrote an article further supporting the folklore - [The Biggest Lie in Corporate America Is Phase 2](https://hbr.org/2012/05/the-biggest-lie-in-corporate-a)
+The folklore built upon the idea that *there is no phase 2* has only helped put more pressure on the first phase of software development. Harvard business review writer Jeff Gothelf delves into this in his article - [The Biggest Lie in Corporate America Is Phase 2](https://hbr.org/2012/05/the-biggest-lie-in-corporate-a)
 
-## So what can we do ?
+Jeff explains:
 
-The work of pioneers in the agile process dating back to [1957](http://en.wikipedia.org/wiki/Agile_software_development#History) has lead to a popular movement around iterative development, lean methodology and the concept of focus using the theory of constraints. These movements are the next steps on our journey to a better way. 
+> Phase 2 is typically the mythical future world where those “things we didn’t get to” in Phase 1 go to die. Few members of the team are harder hit by this reality than the user experience and design staff...
+
+He goes further to point out:
+>  ...the design team is trained over time to believe that if a feature doesn’t get into Phase 1, it will not get built...
+
+One shot? One opportunity ? Sounds familiar. But not all hope is lost. 
+
+
+## What can we do ?
+
+Lucky for most of us, this problem is not new and there have been pioneers trialing different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
+
+The success of these methods in practice went mainstream when Toyota success was linked to it processes now known as the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System)
+This continues to drive a popular movement around iterative development and lean methodology.  
+
+Having an effective production system is not enough by itself to counter *8-mile effect* as we still need to choose the right features. Luckily the work of Eli Goldratt and his [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints) has found some following after the success of his business novel [The Goal](http://bit.ly/1yYUsdE). As quoted on the books cover this is "required reading for Amazon's management". 
+
+So how do each of these tools help us on our journey to combat the *8-mile effect*. 
 
 ### Iterative Development
-Iterative development encourages a strong feedback loop of creating usable artefacts and attaining feedback through quantitative (eg. digital analytics) and qualitative (eg. user testing, focus groups, surveys) methods. 
 
-This helps validate the feature choices made in each iteration and helps test **gut** decisions or forecasted outcomes early. 
+Iterative development gets us started by incorporating a strong feedback loop to help us decide which features really matter. As usable artefacts are created with chosen features, information is collected through quantitative (eg. digital analytics) and qualitative (eg. user testing, focus groups, surveys) methods. 
+
+On the qualitative side, Stephen Krug's book [Dont make me think](https://www.sensible.com/dmmt.html) covers a lot of information around how customers prefer *mindless choices* to help solve their problems. He also encourages the use of simple user testing to help provide feedback as soon as possible. 
+
+Attaining actual numbers on customer behaviour now a prerequisite for websites and applications. Tools like [Google Analytics](http://www.google.com/analytics/) have made this process simple and straight forward with rich real-time graphing and the ability to run A/B tests. 
+
+By validating feature choices made in each iteration  **gut** decisions or forecasted outcomes can be validated or priorities can be changed for the next iteration. Failing fast in an iteration can help ensure the overall software project can learn early and take a alternative course and still achieve its goal.
 
 ### Lean Methodology
-The popular book [the lean startup](http://theleanstartup.com/book) by Eric Ries has taken the concept of choosing features back to its entrepreneurial roots. Eric promotes the idea of clearly establishing the problem and then choosing a [Minimum Viable Product (MVP)](http://theleanstartup.com/principles) that can begin the process of **learning** if product and features provide a useful solution. 
+
+Taking the feedback idea further, the popular book [the lean startup](http://theleanstartup.com/book) by Eric Ries has taken the concept of choosing features back to its entrepreneurial roots. Eric promotes the idea of clearly establishing the problem and then choosing a [Minimum Viable Product (MVP)](http://theleanstartup.com/principles). The MVP begins the process of **learning** if product and specific features provide a useful solution. 
+
+With the Build-test-learn process of lean focusing on the smallest experiment possible to learn each iteration of development can have small wins on the path to final delivery. 
 
 ### Focus and the theory of constraints
 
-Eli Goldratt in his popular business novel [The Goal](http://bit.ly/1yYUsdE) presents the idea that when problem solving we should not always optimise the entire workflow. Rather we should focus first on the bottleneck or constraint. In his other presentations he concentrates this concept in a decision making process he names the [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints). With the tools he provides it is possible to take a large set of data and intuitive insights(i.e. "gut feel) and produce a set of prioritised steps to lead to a goal. For choosing features to learn from first - these tools can work well for individuals and teams trying to get started and make ongoing decisions. 
+But choosing items and random on **gut** feel hasn't always worked out. Eli Goldratt in his popular business novel [The Goal](http://bit.ly/1yYUsdE) presents the idea that when problem solving we should not always optimise the entire workflow. Rather we should focus first on the bottleneck or constraint. In his other presentations he concentrates this concept in a decision making process he names the [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints). With the tools he provides it is possible to take a large set of data and intuitive insights(i.e. "gut feel) and produce a set of prioritised steps to lead to a goal. For choosing features to learn from first - these tools can work well for individuals and teams trying to get started or to make ongoing decisions. 
 
 ## Closing thoughts
 
-You will regularly encounter peers and stakeholders who want to add their ideas and features to your software. You will also encounter the fear of missing the opportunity to get that crucial item into the next release. Now you know this is the "8-mile" effect and there are tools to help. With Lean-MVP and TOC you are in a better place to prioritise the features based on a clear understanding of the problem and the learning process to provide the most useful software.
+Developing software will present you with the *8-mile effect*. Peers and stakeholders will want to add their ideas and features to your software and you will need to make decision. You will also encounter your own fear of missing the opportunity to get that crucial item into the next release. But thanks to our pioneers there are tools to help. 
+
+With Lean-MVP and TOC you are in a better place to choose and prioritise features based on a clear understanding of the problem and the learning process to provide the most useful software. So get on the journey and keep having fun!
+
+
 
 
 ![](http://lh6.ggpht.com/_RR5gzeM2qgU/TaxBEuynOgI/AAAAAAAAAME/c1knMs_T-UM/bottleneck-subordinate-to-bottleneck.png?imgmax=800)
