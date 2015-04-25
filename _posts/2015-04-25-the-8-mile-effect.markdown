@@ -74,7 +74,7 @@ One shot? One opportunity ? Sounds familiar. But not all hope is lost.
 
 Lucky for most of us, this problem is not new and there have been pioneers trialing different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
 
-The success of these methods in practice went mainstream when Toyota success was linked to it processes now known as the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System)
+The success of these methods in practice went mainstream when Toyota's dominance was attributed to their process - the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System).
 This continues to drive a popular movement around iterative development and lean methodology.  
 
 Having an effective production system is not enough by itself to counter *8-mile effect* as we still need to choose the right features. Luckily the work of Eli Goldratt and his [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints) has found some following after the success of his business novel [The Goal](http://bit.ly/1yYUsdE). As quoted on the books cover this is "required reading for Amazon's management". 
