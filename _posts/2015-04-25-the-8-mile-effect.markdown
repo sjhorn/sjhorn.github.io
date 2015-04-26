@@ -41,7 +41,7 @@ The [Iron Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) of
 
 So given time is fixed and features are being added, cost will increase. For fixed budget software development this is not an option so ultimately time is impacted. 
 
-It's not so strange now how constantly trying to resolve lateness by adding more into a phase is actually counter-productive and actually make the problem worse. 
+It's not so strange now how constantly trying to resolve lateness by adding more into a phase is actually counter-productive and makes the problem worse. 
 
 
 ### A satisfactory level of completion
@@ -72,12 +72,12 @@ One shot? One opportunity ? Sounds familiar. But not all hope is lost.
 
 ## What can we do ?
 
-Lucky for us, this problem is not new and there have been pioneers trialing different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
+Lucky for us, this problem is not new and there have been pioneers trialling different approaches from as far back as [1957](http://en.wikipedia.org/wiki/Agile_software_development#History).
 
 The success of these methods went mainstream when Toyota's dominance was attributed to their process - the [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System).
 This continues to drive a popular movement around iterative development and lean methodology.  
 
-Having an effective production system is not enough by itself to counter *8-mile effect* as we still need to choose the right features. Luckily the work of Eli Goldratt and his [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints) has found some following after the success of his business novel [The Goal](http://bit.ly/1yYUsdE). As quoted on the books cover this is "required reading for Amazon's management". 
+Having an effective production system is not enough by itself to counter the *8-mile effect* as we still need to choose the right features. Luckily the work of Eli Goldratt and his [Theory of Constraints (TOC)](http://en.wikipedia.org/wiki/Theory_of_constraints) has found some following after the success of his business novel [The Goal](http://bit.ly/1yYUsdE). As quoted on the book's cover this is "required reading for Amazon's management". 
 
 So how do each of these tools help us on our journey to combat the *8-mile effect*. 
 
@@ -93,9 +93,9 @@ By validating feature choices made in each iteration  **gut** decisions or forec
 
 ### Lean Methodology
 
-Taking the feedback idea further, the popular book [the lean startup](http://theleanstartup.com/book) by Eric Ries has taken the concept of choosing features back to its entrepreneurial roots. Eric promotes the idea of clearly establishing the problem and then choosing a [Minimum Viable Product (MVP)](http://theleanstartup.com/principles). The MVP begins the process of **learning** if product and specific features provide a useful solution. 
+Taking the feedback idea further, the popular book [the lean startup](http://theleanstartup.com/book) by Eric Ries has taken the concept of choosing features back to its entrepreneurial roots. Eric promotes the idea of clearly establishing the problem and then choosing a [Minimum Viable Product (MVP)](http://theleanstartup.com/principles). The MVP begins the process of **learning** if the product and specific features provide a useful solution. 
 
-With the Build-test-learn process of lean focusing on the smallest experiment possible to learn each iteration of development can have small wins on the path to final delivery. 
+With the Build-test-learn process of lean focusing on the smallest experiment one can conduct to learn something - each iteration of development can have small wins on the path to final delivery.
 
 ### Focus and the theory of constraints
 
