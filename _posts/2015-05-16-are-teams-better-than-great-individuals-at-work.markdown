@@ -1,8 +1,17 @@
-# Are teams better than great individuals at work?
+
+---
+layout: post
+title:  "Are teams better than great individuals at work"
+date:   2015-05-16
+comments: true
+---
 
 ![](http://scholars-discount-card.com/blog/wp-content/uploads/2013/11/baseball-kids.jpg)
 
-The virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get 6 months work done in two weeks. Suffice to say the product was not high quality but did a great job for the presentation. None of this would have been remotely possible without the work of the team, working around the clock and cheerleading each other along to get the crucial pieces working. 
+<p class="intro"><span class="dropcap">T</span>he virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get 6 months work done in two weeks. 
+<p>
+
+Suffice to say the product was not high quality but did a great job for the presentation. None of this would have been remotely possible without the work of the team, working around the clock and cheerleading each other along to get the crucial pieces working. 
 
 **So teams are always the best way to work - right ?**
 This is what I have always thought - but we have lots of examples in our society that counter this. CEOs, quarterbacks, authors are all paid handsomely to work their individual magic. Mark Zuckerberg has even been famously [quoted](http://www.nytimes.com/2011/05/18/technology/18talent.html)
