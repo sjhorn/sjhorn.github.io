@@ -7,7 +7,7 @@ comments: true
 
 ![](http://scholars-discount-card.com/blog/wp-content/uploads/2013/11/baseball-kids.jpg)
 
-<p class="intro"><span class="dropcap">T</span>he virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get 6 months work done in two weeks. 
+<p class="intro"><span class="dropcap">T</span>he virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get six months work done in two weeks. 
 <p>
 
 Suffice to say the product was not high quality but did a great job for the presentation. None of this would have been remotely possible without the work of the team, working around the clock and cheerleading each other along to get the crucial pieces working. 
