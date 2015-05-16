@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are teams better than great individuals at work"
+title:  "Are teams better than great individuals at work ?"
 date:   2015-05-16
 comments: true
 ---
@@ -15,7 +15,7 @@ Suffice to say the product was not high quality but did a great job for the pres
 **So teams are always the best way to work - right ?**
 This is what I have always thought - but we have lots of examples in our society that counter this. CEOs, quarterbacks, authors are all paid handsomely to work their individual magic. Mark Zuckerberg has even been famously [quoted](http://www.nytimes.com/2011/05/18/technology/18talent.html)
 
-> Someone who is exceptional in their role is not just a little better than someone who is pretty good,” he said. “They are 100 times better.
+> "Someone who is exceptional in their role is not just a little better than someone who is pretty good," he said. "They are 100 times better".
 
 This sentiment is taken to the extreme with a industry trend known as acqhiring  ([Bill Taylor explains in his article](https://hbr.org/2011/06/great-people-are-overrated)).
 
@@ -42,13 +42,13 @@ Looking further into the counter point of view, [Jeff Stibel explores brain biol
 
 >The truth is, our brains work very well individually but tend to break down in groups. This is why we have individual decision makers in business (and why paradoxically we have group decisions in government)
 
-Jeff also goes further to say contributions from great individual are at risk of mediocre minds. Passing Michelangelo’s work onto another artist would not yield the same perfection.
+Jeff also goes further to say contributions from great individuals are at risk of mediocre minds. Passing Michelangelo’s work onto another artist would not yield the same perfection.
 
 However to counter to point of operating in isolation Jeff does conclude with: 
 
 >Leaders need to make tough decisions all the time. One decision is easy: find the best people and empower them to do great things.
 
-## How to strike the balance?
+### How to strike the balance?
 
 1. **Teams and great individuals are a symbiotic relationship**. Great individuals struggle to  perform the same great feats without the teams that support them. Likewise a team without great individuals won't deliver results. Building a chemistry that supports both without a tradeoff in one direction works the best.
 
