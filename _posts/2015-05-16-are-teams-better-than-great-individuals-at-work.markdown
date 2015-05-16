@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Are teams better than great individuals at work"
