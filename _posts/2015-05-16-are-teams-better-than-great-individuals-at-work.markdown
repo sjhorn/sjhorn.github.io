@@ -50,7 +50,7 @@ However to counter to point of operating in isolation Jeff does conclude with:
 
 ### How to strike the balance?
 
-1. **Teams and great individuals are a symbiotic relationship**. Great individuals struggle to  perform the same great feats without the teams that support them. Likewise a team without great individuals won't deliver results. Building a chemistry that supports both without a tradeoff in one direction works the best.
+1. **Teams and great individuals are a symbiotic relationship**. Great individuals struggle to  perform the same great feats without the teams that support them. Likewise a team without great individuals won't deliver results. Building a chemistry that supports both without a trade-off in one direction works the best.
 
 2. **Great individuals are volatile and need team support** - performing at peak can lead to individuals to "run hot" and ultimately "run cold". Having a suitable team to cover the low periods and provide emotional support can ensure a [rectifying](http://en.wikipedia.org/wiki/Rectifier) effect - similar to alternating current to direct current power conversion. 
 
