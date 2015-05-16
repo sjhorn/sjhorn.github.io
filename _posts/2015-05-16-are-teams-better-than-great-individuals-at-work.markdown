@@ -21,7 +21,7 @@ This sentiment is taken to the extreme with a industry trend known as acqhiring 
 
 > acqhiring - shelling out big bucks to acquire a company, not to buy a product or a piece of technology, but to hire a few (or even one) software programmer or engineer who will arrive at the acquiring company and make a huge impact
 
-In the same article Bill offers the counter point regarding a sudden decline in a star's who changes teams. 
+In the same article Bill offers the counter point regarding a sudden decline in a star who changes teams. 
 
 >star analysts who change firms suffer an immediate and lasting decline in performance. Their earlier excellence appears to have depended heavily on their former firms’ general and proprietary resources, organisational cultures, networks, and colleagues
 
