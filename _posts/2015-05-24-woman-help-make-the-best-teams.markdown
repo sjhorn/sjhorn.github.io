@@ -7,7 +7,7 @@ comments: true
 
 ![](http://www.defence.gov.au/news/raafnews/editions/4720/images/23--NSW-v-VIC-mixed-netball.jpg)
 
-<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by Engineering at University I got a good look at male only teams early on. High school and University group projects, basketball, Rugby Union and later software teams I got a fair dose of the difference between having only males on the team, and the benefits female team members would immediately bring. </p>
+<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by engineering at university I grew up mainly working on male-only teams. High school and university group projects, basketball, rugby union and later software teams I got a fair dose of the difference between having only males on the team, and the benefits female team members would immediately bring.</p>
 
 In my case this included:
 
@@ -15,9 +15,9 @@ In my case this included:
 * More focus on team outcomes. 
 * More fun (thanks Eily).
 
-Working for great female managers and CIOs has also helped me learn more about my own strengths and weaknesses. Both technically and socially (thanks Robina and Janet). 
+Working with great female leaders has also helped me learn more about my own strengths and weaknesses. Receiving encouragement and constructive criticism happened much sooner and more frequently in my engagement with these leaders relative to my earlier career. This ensured I had a chance to grow my skills both technically and socially as quickly as I would listen to the advice (thanks Robina and Janet).  
  
-Given my own experiences in the area I was keen to see if there was research on the matter. Fortunately Vivian Giang had gathered some research points on [competition at work](http://www.businessinsider.com.au/teams-more-productive-than-individuals-2013-8) and suggests:
+Given my own experiences in the area I was keen to see if there was research on the matter. Fortunately Vivian Giang had gathered numerous research points on [competition at work](http://www.businessinsider.com.au/teams-more-productive-than-individuals-2013-8) and suggests:
 
 >Women were more likely to choose team-based pay and often avoided tournaments. This choice had the opposite effect on men
 
