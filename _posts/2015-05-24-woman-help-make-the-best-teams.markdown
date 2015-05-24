@@ -1,9 +1,13 @@
-
-# Women help make the best teams
+---
+layout: post
+title:  "Women help make the best teams"
+date:   2015-05-24
+comments: true
+---
 
 ![](http://www.defence.gov.au/news/raafnews/editions/4720/images/23--NSW-v-VIC-mixed-netball.jpg)
 
-**A**ttending an all boys school, followed by Engineering at University I got a good look at male only teams early on. High school and University group projects, basketball, Rugby Union and later software teams I got a fair dose of the difference between having only males on the team, and the benefits female team members would immediately bring. 
+<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by Engineering at University I got a good look at male only teams early on. High school and University group projects, basketball, Rugby Union and later software teams I got a fair dose of the difference between having only males on the team, and the benefits female team members would immediately bring. </p>
 
 In my case this included:
 
