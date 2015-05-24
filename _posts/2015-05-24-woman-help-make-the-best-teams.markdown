@@ -39,10 +39,10 @@ This research ties in nicely with my own experiences with teams. Men tend to be 
 Getting to the why of gender-diversity, Derek Thompson writes about the non-verbal skills of women in his article - [The Secret to Smart Groups: It's Women](http://www.theatlantic.com/business/archive/2015/01/the-secret-to-smart-groups-isnt-smart-people/384625/)
 >Women are better at reading the mind through the face, even online, when they can't see their teammates' faces.
 
-Rapidly getting to know their colleagues through things like body language is a clear advantage to women in building trust and ultimately teams. ** So how to men contribute and what is the drawback ? **
+Rapidly getting to know their colleagues through things like body language is a clear advantage to women in building trust and ultimately teams. **So how do men contribute and what is the drawback ?**
 
 Roisin Donnelly explains the balancing attributes in her article 
-[Women take things personally and men don't listen - together they make the best teams](http://www.marketingmagazine.co.uk/article/1284909/women-things-personally-men-dont-listen-together-best-teams).She speaks of the studies conducted by [Dr Pat Heim(http://www.heimgroup.com/index.php/about/history) on the synergy of men and women:
+[Women take things personally and men don't listen - together they make the best teams](http://www.marketingmagazine.co.uk/article/1284909/women-things-personally-men-dont-listen-together-best-teams).She speaks of the studies conducted by [Dr Pat Heim](http://www.heimgroup.com/index.php/about/history) on the synergy of men and women:
 
 >Girls spend most of their time playing with small groups of other girls and building relationships...
 >Meanwhile, boys are playing with bigger teams of other boys in win/lose or team games
