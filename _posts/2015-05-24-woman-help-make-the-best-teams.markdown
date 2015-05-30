@@ -7,17 +7,17 @@ comments: true
 
 ![](http://www.defence.gov.au/news/raafnews/editions/4720/images/23--NSW-v-VIC-mixed-netball.jpg)
 
-<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by engineering at university I grew up mainly working on male-only teams. High school and university group projects, basketball, rugby union and later software teams I got a fair dose of the difference between having only males on the team, and the benefits female team members would immediately bring.</p>
+<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by engineering at university I grew up  working on male-only teams. As I entered the workforce I was fortunate to work with more balanced teams including a least three roles with a female manager. With the gender diversity I was able to see a very different team dynamic.</p>
 
 In my case this included:
 
-* Better sociability.
+* Better sociability leading to more creative solutions.
 * More focus on team outcomes. 
 * More fun (thanks Eily).
 
-Working with great female leaders has also helped me learn more about my own strengths and weaknesses. Receiving encouragement and constructive criticism happened much sooner and more frequently in my engagement with these leaders relative to my earlier career. This ensured I had a chance to grow my skills both technically and socially as quickly as I would listen to the advice (thanks Robina and Janet).  
+Working with great female leaders (direct-reports and reporting-to) has also helped me learn about my own strengths and weaknesses. Receiving encouragement and constructive criticism happened much sooner and more frequently in my engagement with these leaders relative to my earlier career. This ensured I had a chance to grow my skills both technically and socially as quickly as I would listen to the advice (thanks Robina and Janet).   
  
-Given my own experiences in the area I was keen to see if there was research on the matter. Fortunately Vivian Giang had gathered numerous research points on [competition at work](http://www.businessinsider.com.au/teams-more-productive-than-individuals-2013-8) and suggests:
+Given my own experiences I was keen to see other research and opinion. Vivian Giang in her article [competition at work](http://www.businessinsider.com.au/teams-more-productive-than-individuals-2013-8) suggests:
 
 >Women were more likely to choose team-based pay and often avoided tournaments. This choice had the opposite effect on men
 
@@ -25,7 +25,7 @@ Giang sights the [published study](http://papers.nber.org/tmp/50510-w19277.pdf) 
 
 >men tend to be overconfident in their skills and are “more pessimistic than women about the abilities of their potential teammates"
 
-Kuhn explains that the nature of work has changed and has to be more cooperative to be successful. He indicates individuals need to come together to compete with other companies rather then competing with each other internally. In his study he also found: 
+Kuhn explains the nature of work has changed and has to be more cooperative to be successful. He indicates individuals need to come together to compete with other companies rather then competing with each other internally. In his study he also found: 
 
 >offer[ing] participants a 10% increase in pay to join a team instead of working solo, more men joined teams. Interestingly, women tended to choose teams even if it paid less than working individually.
 
@@ -52,6 +52,6 @@ Robson through Dr Heim's work points out that women have an advantage in their c
 ### So how can you make the best teams?
 
  1. **Get and keep your teams "gender diverse"** - find ways to attract a balance of women and men on your teams. The improved balance between cooperation and competition will make it worth the effort.
- 2. **Create team incentives** - women who are already tend towards team work will be rewarded and men will be encouraged to engage in teamwork of individual gain.
- 3. **Be aware of over/under confidence**. Understand the skills of your team members and be sure to help facilitate women who may not take on more risk balanced with men who take on too much. 
+ 2. **Create team incentives** -  those who prefer team work will be rewarded and those who prefer reward will be encouraged to engage in teamwork.
+ 3. **Be aware of under confidence** - understand the skills of your team so you can encourage participation in stretch goals and challenges, even if there is a lack of confidence - this gives everyone an equal chance to grow their experience.
  
