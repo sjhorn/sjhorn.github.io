@@ -5,7 +5,6 @@ url: http://blog.hornmicro.com
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-highlighter: pygments
 paginate: 10
 
 navigation:
