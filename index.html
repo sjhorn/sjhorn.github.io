@@ -1,26 +1,29 @@
----
-layout: default
-title: Have Fun - A blog about having fun solving problems
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
 
-<div id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-      	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-      	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
-      	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous button__outline">Newer Posts</a>  
-    {% endif %} 
-    {% if paginator.next_page %}
-      <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
-</div>
+</head>
+<body class="mdc-typography">
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      coverpage: 'cover.md',
+      onlyCover: true,
+      loadNavbar: 'nav.md',
+      loadSidebar: 'sidebar.md'
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- <script src="//cdn.muicss.com/mui-0.9.36/js/mui.min.js"></script> -->
+</body>
+</html>

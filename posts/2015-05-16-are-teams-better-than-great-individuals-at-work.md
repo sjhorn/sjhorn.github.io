@@ -1,18 +1,15 @@
----
-layout: post
-title:  "Are teams better than great individuals at work ?"
-date:   2015-05-16
-comments: true
----
+![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAM_AAAAJDM4NTk2ZGE1LTg4MDMtNDM0Ni1iN2U1LThiODc2Yzc0MTQ0NA.jpg)
 
-![](http://scholars-discount-card.com/blog/wp-content/uploads/2013/11/baseball-kids.jpg)
+# Are teams better than great individuals at work ?
 
-<p class="intro"><span class="dropcap">T</span>he virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get six months work done in two weeks. 
-<p>
+16-May-2016
+
+The virtues of team work appeared fairly early in my career - working on a prototype presentation with a large transport company meant we had to scramble a small team of six to get six months work done in two weeks. 
+
 
 Suffice to say the product was not high quality but did a great job for the presentation. None of this would have been remotely possible without the work of the team, working around the clock and cheerleading each other along to get the crucial pieces working. 
 
-**So teams are always the best way to work - right ?**
+## So teams are always the best way to work - right ?
 This is what I have always thought - but we have lots of examples in our society that counter this. CEOs, quarterbacks, authors are all paid handsomely to work their individual magic. Mark Zuckerberg has even been famously [quoted](http://www.nytimes.com/2011/05/18/technology/18talent.html)
 
 > "Someone who is exceptional in their role is not just a little better than someone who is pretty good," he said. "They are 100 times better".
@@ -25,11 +22,11 @@ In the same article Bill offers the counter point regarding a sudden decline in 
 
 >star analysts who change firms suffer an immediate and lasting decline in performance. Their earlier excellence appears to have depended heavily on their former firms’ general and proprietary resources, organisational cultures, networks, and colleagues
 
-**Sounds like teams are still crucial as high performing individuals still heavily depend on their team.** 
+## Sounds like teams are still crucial as high performing individuals still heavily depend on their team.
 
 This becomes even clearer when you look at sport. Peak sports team performance requires each player to be focused, hard-working and ambitious - often resulting in being hard-to-manage. Individually competing to "gain inches" can lead to a win - these efforts can often challenge personal relationships as the need to win for the team gets ahead of passing to your colleague.
 
-My own experience in teams at work has seen similar challenges appear - particularly around **domain knowledge**. Just because you know how to do it and can do it the quickest - is it healthy for the team if you are the **only** one who does it ? "That's not her role or job title....he is a coder why is he facilitating a meeting...how can you risk having Marcos involved". Sound familiar ? 
+My own experience in teams at work has seen similar challenges appear - particularly around `domain knowledge`. Just because you know how to do it and can do it the quickest - is it healthy for the team if you are the `only` one who does it ? "That's not her role or job title....he is a coder why is he facilitating a meeting...how can you risk having Marcos involved". Sound familiar ? 
 
 Watching various all-star sports games has time and time-again shown that a great team can overcome an almighty collection of individuals. Even the original US Dream Team was beaten in 1992 by a [team of college stars](http://offthedribble.blogs.nytimes.com/2012/05/09/the-dream-teams-very-bad-day/?_r=0).
 
@@ -48,7 +45,7 @@ However to counter to point of operating in isolation Jeff does conclude with:
 
 >Leaders need to make tough decisions all the time. One decision is easy: find the best people and empower them to do great things.
 
-### How to strike the balance?
+## How to strike the balance?
 
 1. **Teams and great individuals are a symbiotic relationship**. Great individuals struggle to  perform the same great feats without the teams that support them. Likewise a team without great individuals won't deliver results. Building a chemistry that supports both without a trade-off in one direction works the best.
 

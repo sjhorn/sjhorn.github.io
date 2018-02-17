@@ -1,19 +1,16 @@
----
-layout: post
-title:  "Women help make the best teams"
-date:   2015-05-24
-comments: true
----
+![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAMwAAAAJDIyOTE1YWEyLWI0YzUtNDYyNy04ODMxLTVlNDdjNzIxYTc0Yw.jpg)
 
-![](http://www.defence.gov.au/news/raafnews/editions/4720/images/23--NSW-v-VIC-mixed-netball.jpg)
+# Women help make the best teams
 
-<p class="intro"><span class="dropcap">A</span>ttending an all boys school, followed by engineering at university I grew up  working on male-only teams. As I entered the workforce I was fortunate to work with more balanced teams including a least three roles with a female manager. With the gender diversity I was able to see a very different team dynamic.</p>
+25-May-2015
+
+Attending an all boys school, followed by engineering at university I grew up  working on male-only teams. As I entered the workforce I was fortunate to work with more balanced teams including a least three roles with a female manager. With the gender diversity I was able to see a very different team dynamic.
 
 In my case this included:
 
 * Better sociability leading to more creative solutions.
 * More focus on team outcomes. 
-* More fun (thanks Eily).
+* More fun (thanks `Eily`).
 
 Working with great female leaders (direct-reports and reporting-to) has also helped me learn about my own strengths and weaknesses. Receiving encouragement and constructive criticism happened much sooner and more frequently in my engagement with these leaders relative to my earlier career. This ensured I had a chance to grow my skills both technically and socially as quickly as I would listen to the advice (thanks Robina and Janet).   
  
@@ -39,7 +36,7 @@ This research ties in nicely with my own experiences with teams. Men tend to be 
 Getting to the why of gender-diversity, Derek Thompson writes about the non-verbal skills of women in his article - [The Secret to Smart Groups: It's Women](http://www.theatlantic.com/business/archive/2015/01/the-secret-to-smart-groups-isnt-smart-people/384625/)
 >Women are better at reading the mind through the face, even online, when they can't see their teammates' faces.
 
-Rapidly getting to know their colleagues through things like body language is a clear advantage to women in building trust and ultimately teams. **So how do men contribute and what is the drawback ?**
+Rapidly getting to know their colleagues through things like body language is a clear advantage to women in building trust and ultimately teams. `So how do men contribute and what is the drawback ?`
 
 Roisin Donnelly explains the balancing attributes in her article 
 [Women take things personally and men don't listen - together they make the best teams](http://www.marketingmagazine.co.uk/article/1284909/women-things-personally-men-dont-listen-together-best-teams).She speaks of the studies conducted by [Dr Pat Heim](http://www.heimgroup.com/index.php/about/history) on the synergy of men and women:
@@ -49,7 +46,7 @@ Roisin Donnelly explains the balancing attributes in her article
 
 Robson through Dr Heim's work points out that women have an advantage in their communication and interpersonal skills but don't always focus on the goal and can take losing too personally. Men on the other hand are good at focusing on goals but not are good at listening to colleagues and customers.
 
-### So how can you make the best teams?
+## So how can you make the best teams?
 
  1. **Get and keep your teams "gender diverse"** - find ways to attract a balance of women and men on your teams. The improved balance between cooperation and competition will make it worth the effort.
  2. **Create team incentives** -  those who prefer team work will be rewarded and those who prefer reward will be encouraged to engage in teamwork.

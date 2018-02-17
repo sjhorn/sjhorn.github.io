@@ -1,25 +1,19 @@
----
-layout: post
-title:  "The 8-mile effect"
-date:   2015-04-25
-comments: true
----
+![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAIkAAAAJDYwZTRkZGZlLTQ5ZDktNDg0OS1hNjRhLTQ5ZjIwYTFjZmZjMw.jpg)
+# The 8-mile effect
+25-April-2015
 
-![](http://www.universalstudiosentertainment.com/assets_c/2010/04/61109281_8%20Mile_800x445-thumb-800x445-573.jpg?01AD=3_lniGCFj_hjJEB-6zC7F8JD-kTHdtZsx9nsBk0WuKlHi1mFkx4X5Aw&01RI=D674B6A53BCC86E&01NA=na)
+Developing software has a fair share of challenges. Choosing the right tools, the right platform, the build pipeline, unit testing, stress testing, security...
 
-<p class="intro"><span class="dropcap">D</span>
-eveloping software has a fair share of challenges. Choosing the right tools, the right platform, the build pipeline, unit testing, stress testing, security...
-</p>
 
-But none of these compare to the challenge that emerges when choosing the **right** features to do first. 
+But none of these compare to the challenge that emerges when choosing the `right` features to do first. 
 
-Over the last decade I have worked with various internal and external stakeholders and one thing that seems to get in the way of choosing the **right** features is best expressed by Eminem's performance in the movie [8-mile](https://youtu.be/axGVrfwm9L4?t=53)
+Over the last decade I have worked with various internal and external stakeholders and one thing that seems to get in the way of choosing the `right` features is best expressed by Eminem's performance in the movie [8-mile](https://youtu.be/axGVrfwm9L4?t=53)
 
 > ... Look, if you had one shot, or one opportunity
 > To seize everything you ever wanted. one moment
 > Would you capture it or just let it slip...
  
-Everybody wants **their** feature included, because otherwise it won't get another chance.
+Everybody wants `their` feature included, because otherwise it won't get another chance.
 
 The interesting side effect of this is the followup water cooler conversation about how software projects are never:
 
@@ -52,7 +46,7 @@ The drive to ensure features are included in software leads to two side effects.
 
  1. Extended **analysis** and **design** lead time leading to analysis paralysis and/or arbitrary trade-offs. Mostly based on what can be completed the quickest. 
  2. Late and incremental addition of features to a constrained design. An effect similar to the way wires are run in the picture below. 
- ![](http://www.ekantipur.com/uploads/tkp/news/2010/gallery_10_06/CROSSWIRE_20101007084334.jpg)
+ ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMYAAAAJDY0ODJlODhjLWNmZWMtNDg5ZS05OTM2LTQ0OWIyNmVhYzA5Nw.jpg)
  
 Is this what happens with your projects? Both of the side effects lead to results that aren't considered satisfactory when software ships. But ask most engineers or designers and words like *scope creep* and not sticking to the *design* is the first thing sighted. 
 
@@ -123,4 +117,4 @@ So get on the journey and keep having fun!
 
 
 
-![](http://lh6.ggpht.com/_RR5gzeM2qgU/TaxBEuynOgI/AAAAAAAAAME/c1knMs_T-UM/bottleneck-subordinate-to-bottleneck.png?imgmax=800)
+![](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAALmAAAAJDcxMjY5ODE3LWFjMTktNGE0MS05YTZkLTVjZjdhNjZlNmYxOQ.png)
