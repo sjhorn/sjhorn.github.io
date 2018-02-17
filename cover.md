@@ -5,8 +5,8 @@
 
 > A blog about my journey through software engineering and leadership
 
-[About](About)
-[Contact](Contact)
+[About](about)
+[Contact](contact)
 [Posts](README)
 
 
