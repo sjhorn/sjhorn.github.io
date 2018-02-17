@@ -54,6 +54,3 @@ However to counter to point of operating in isolation Jeff does conclude with:
 3. **Ensure a great skills include sociability**. The key to the evolution of our knowledge has been the ability to socialise. This is exactly the same in teams. Be a great individual but be sure to be able to share those skills and achievements with others who will help to you to even greater heights. 
 
 
-
-
-

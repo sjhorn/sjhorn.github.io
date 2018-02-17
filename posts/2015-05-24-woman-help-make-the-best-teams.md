@@ -51,4 +51,7 @@ Robson through Dr Heim's work points out that women have an advantage in their c
  1. **Get and keep your teams "gender diverse"** - find ways to attract a balance of women and men on your teams. The improved balance between cooperation and competition will make it worth the effort.
  2. **Create team incentives** -  those who prefer team work will be rewarded and those who prefer reward will be encouraged to engage in teamwork.
  3. **Be aware of under confidence** - understand the skills of your team so you can encourage participation in stretch goals and challenges, even if there is a lack of confidence - this gives everyone an equal chance to grow their experience.
+
+
+
  
