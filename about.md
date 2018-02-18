@@ -16,6 +16,5 @@
 * [Groovy SpaceInvaders](https://github.com/sjhorn/SpaceInvaders): Retro space invaders based on Atari 2600.                        
 
 ### Exercise/Fun!
+[Strava Feed](http://www.strava.com/athletes/1300808/activity-summary/2e8ce33e84e6ca28bbee37f916c6e0b78cbf5064 ':include :type=iframe width=300px height=160px')
 
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/athletes/1300808/activity-summary/2e8ce33e84e6ca28bbee37f916c6e0b78cbf5064'></iframe>
