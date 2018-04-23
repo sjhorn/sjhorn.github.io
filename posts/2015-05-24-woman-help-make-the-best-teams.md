@@ -1,4 +1,4 @@
-![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAMwAAAAJDIyOTE1YWEyLWI0YzUtNDYyNy04ODMxLTVlNDdjNzIxYTc0Yw.jpg)
+![](../img/netball.jpg)
 
 # Women help make the best teams
 

@@ -1,4 +1,4 @@
-![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAIkAAAAJDYwZTRkZGZlLTQ5ZDktNDg0OS1hNjRhLTQ5ZjIwYTFjZmZjMw.jpg)
+![](../img/8mile.jpg)
 # The 8-mile effect
 25-April-2015
 

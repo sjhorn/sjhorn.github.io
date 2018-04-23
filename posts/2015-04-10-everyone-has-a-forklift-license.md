@@ -1,10 +1,10 @@
 
 
-![Lego Forklift](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAALfAAAAJGQ5MjBiYjg5LTlhYTctNDRmYy05ZDdkLTJjMzUwODAwNDkyNg.jpg)
+![Lego Forklift](../img/forklift.jpg)
 # Everyone has a forklift license
 10-April-2015
 
-![Forklift Licence image](http://www.nfe-lifts.com/wp-content/uploads/2013/02/forklift-license.jpg)
+![Forklift Licence image](../img/forklift_license.jpg)
 
 I once heard a great story about a leader at a new brewery in Yatala.
 As the brewery and business grew, they found they had more capacity to make and deliver beer using their truck network, eventually going from nothing to `10% of the market`.
@@ -12,7 +12,7 @@ As the brewery and business grew, they found they had more capacity to make and 
 However they hadn't catered for an important bottlekneck... 
 ...getting the beer onto the trucks. So one day when the forklift driver was sick - no beer could be delivered. What happened next I have since referred to as `Power's Brewing Model`. The leader (possibly `Bernie Power` himself) decided that everyone at the brewery would have a forklift license so this would never happen again. 
 
-![Power's Bitter Logo](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAJpAAAAJDYxNGU4NWYxLTdkM2UtNDNmNC04ZjUwLWI0YjU4YzM2ZGY1Mg.jpg)
+![Power's Bitter Logo](../img/powersbitter.jpg)
 
 ?>Now owned by CUB [Yatala brewery still powering along](http://www.brewsnews.com.au/2010/01/yatala-brewery-still-powering-along/)
 
@@ -42,7 +42,7 @@ There is no doubt that someone new to a speciality is unlikely to be as efficien
 
 Give it a try in your team. The *human condition* tends to make us all a little inquisitive and interested in a challenge even if only to make the day more interesting. You will be pleasantly surprised in the value your team can bring by venturing outside the shoebox of your job description. 
 
-![Pigeons in holes ie.pigeon holed](http://upload.wikimedia.org/wikipedia/commons/e/e9/Pigeons-in-holes.jpg)
+![Pigeons in holes ie.pigeon holed](../img/pigeonholes.jpg)
 
 Related post [The full-stack employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 

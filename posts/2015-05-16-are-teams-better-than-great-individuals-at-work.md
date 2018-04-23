@@ -1,4 +1,4 @@
-![](https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAM_AAAAJDM4NTk2ZGE1LTg4MDMtNDM0Ni1iN2U1LThiODc2Yzc0MTQ0NA.jpg)
+![](../img/teams.jpg)
 
 # Are teams better than great individuals at work ?
 
