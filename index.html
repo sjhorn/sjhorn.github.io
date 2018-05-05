@@ -19,11 +19,12 @@
   
   <script>
     window.$docsify = {
-      name: '',
+      name: 'Have Fun - Scott Horn\'s Blog',
       repo: '',
       coverpage: 'cover.md',
       onlyCover: true,
-      loadNavbar: 'nav.md',
+      loadNavbar: false,
+      loadSidebar: 'nav.md',
       mergeNavbar: true,
       autoHeader: true,
       disqus: 'hornmicroblog',
@@ -34,11 +35,12 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
-  <script>
+  <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
+  <!-- <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
     }
-  </script>
+  </script> -->
   
 </body>
 </html>

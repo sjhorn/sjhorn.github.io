@@ -1,4 +1,3 @@
-* [Home](/)
 * [About](about)
 * [Contact](contact)
 * [Posts](README)

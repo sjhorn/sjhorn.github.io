@@ -31,7 +31,9 @@ Let's explore each:
 
 So the project is late..."this is why I have to keep adding more features into the first phase". Have you heard this one?
 
-The [Iron Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) of project management demonstrates that only two out of three constraints of cost, features(scope) and time(schedule) can be fixed. Or expressed in another way - a change to one of the items effects the other two. ![](http://upload.wikimedia.org/wikipedia/commons/a/a6/The_triad_constraints.jpg)
+The [Iron Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) of project management demonstrates that only two out of three constraints of cost, features(scope) and time(schedule) can be fixed. Or expressed in another way - a change to one of the items effects the other two. 
+
+![](../img/irontriangle.jpg)
 
 So given time is fixed and features are being added, cost will increase. For fixed budget software development this is not an option so ultimately time is impacted. 
 
@@ -46,7 +48,8 @@ The drive to ensure features are included in software leads to two side effects.
 
  1. Extended **analysis** and **design** lead time leading to analysis paralysis and/or arbitrary trade-offs. Mostly based on what can be completed the quickest. 
  2. Late and incremental addition of features to a constrained design. An effect similar to the way wires are run in the picture below. 
- ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAMYAAAAJDY0ODJlODhjLWNmZWMtNDg5ZS05OTM2LTQ0OWIyNmVhYzA5Nw.jpg)
+
+ ![](../img/cables.jpg)
  
 Is this what happens with your projects? Both of the side effects lead to results that aren't considered satisfactory when software ships. But ask most engineers or designers and words like *scope creep* and not sticking to the *design* is the first thing sighted. 
 
@@ -117,4 +120,4 @@ So get on the journey and keep having fun!
 
 
 
-![](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAALmAAAAJDcxMjY5ODE3LWFjMTktNGE0MS05YTZkLTVjZjdhNjZlNmYxOQ.png)
+![](../img/toc.jpg)
