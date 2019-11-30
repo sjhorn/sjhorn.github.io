@@ -1,6 +1,6 @@
 # About me
 
-[Scott](https://au.linkedin.com/in/scottjhorn) is an Engineer working as a Senior Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [lastminute.com.au](http://www.lastminute.com.au) and [travel.com.au](http://www.travel.com.au) in Brisbane, Australia. He is also a [competitive](http://www.strava.com/athletes/1300808) and [casual cyclist](http://www.strava.com/athletes/1300808).
+[Scott](https://au.linkedin.com/in/scottjhorn) is an Engineer working as a Senior Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [orbitz.com](http://www.orbitz.com) and [Travelocity](http://www.travelocity.com) in Seattle, Washington, USA. 
 
 ![Scott on Mt Nebo picture](img/nebo.jpeg "Looking out of Mt Nebo")
 ![Scott's profile image](img/profile.jpg "Scott's profile image")
@@ -15,6 +15,5 @@
 * [Selenium.x](https://github.com/sjhorn/selenium.x): A cross-platform cross-browser graphical user interface for selenium files (selenese html) using selenium web driver.
 * [Groovy SpaceInvaders](https://github.com/sjhorn/SpaceInvaders): Retro space invaders based on Atari 2600.                        
 
-### Exercise/Fun!
-[Strava Feed](https://www.strava.com/athletes/1300808/activity-summary/2e8ce33e84e6ca28bbee37f916c6e0b78cbf5064 ':include :type=iframe width=300px height=160px')
+
 
