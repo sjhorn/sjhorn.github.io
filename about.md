@@ -1,6 +1,8 @@
 # About me
 
-[Scott](https://au.linkedin.com/in/scottjhorn) is an Engineer working as a Senior Director for [Expedia](http://expedia.com) on brands like [wotif.com](http://wotif.com), [orbitz.com](http://www.orbitz.com) and [Travelocity](http://www.travelocity.com) in Seattle, Washington, USA. 
+[Scott](https://www.linkedin.com/in/scottjhorn) is an Engineer, Software developer and maker working as a Senior Vice President for [Maersk](http://maersk.com) in Copenhagen, Denmark. 
+
+Previously he has worked at Expedia in Seattle, USA and many prior roles 
 
 ![Scott on Mt Nebo picture](img/nebo.jpeg "Looking out of Mt Nebo")
 ![Scott's profile image](img/profile.jpg "Scott's profile image")
@@ -25,6 +27,8 @@ Transformation - regularly working on, and in teams involved in new tools, techn
 
 ### Creating
 
+* [Lunr](https://lunr.hornmicro.com) a port of the full text search library lunrjs to dart/flutter.
+* [Scaffolding](https://scaffoldinghub.dev/) scaffolding apps for rapid application devlopment in dart/flutter.
 * [Itsy](https://github.com/sjhorn/itsy-lang) a small language experiment interpreter.
 * [Bitsy](https://github.com/sjhorn/bitsy-lang) a small language experiment compiler. Compiles to native, java bytecode and bash shell files.
 * [Discovera](https://github.com/sjhorn/discovera): An adventure in finding files.
