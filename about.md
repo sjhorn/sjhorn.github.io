@@ -6,7 +6,7 @@ Previously he has worked at Expedia in Seattle, USA and many prior roles
 
 ![Scott on Mt Nebo picture](img/nebo.jpeg "Looking out of Mt Nebo")
 ![Scott's profile image](img/profile.jpg "Scott's profile image")
-
+![Scott's profile image work](img/scottjhorn.jpeg "Scott's profile image work")
 ### Profesional blurb
 
 Scott is a problem solver and product engineering leader, experienced in leading teams to design, model and implement high-performance software solutions. I have over 20 years experience with teams, including remote teams in Europe, Asia Pacific and the Americas. Specialising in user-friendly internet, mobile and desktop solutions. Regularly engaged in all phases of the product and engineering lifecycle, from initial business requirements, project inceptions, software architecture (IEEE 1471) through to prototype development, implementation, and maintenance. I am effective at working in and building teams with an emphasis on ephemeral results, intuition, creativity, empathy - but most of all fun.
